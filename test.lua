@@ -5,3 +5,5 @@ function atomius_module:GetAnc()
 end
 
 atomius_module:GetAnc()
+
+return atomius_module
